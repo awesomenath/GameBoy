@@ -8,7 +8,7 @@ A personal project to learn basic emulation and lower level instruction handling
 2. Start debugging / Compile and run
 3. Click on the main render section to then select the ROM to play
 
-##Input Mapping
+## Input Mapping
 |Input|Key binding|
 |---|---|
 |Start|Enter|
